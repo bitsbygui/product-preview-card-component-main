@@ -26,8 +26,8 @@ Está é minha solução para o [Product preview card component challenge on Fro
 
 ### Links
 
-- URL da solução: [Veja minha solução](https://github.com/bitsbygui/order-summary-component-main)
-- Live Site URL: [Oorder summary card solution](https://bitsbygui.github.io/order-summary-component-main/)
+- URL da solução: [Veja minha solução](https://github.com/bitsbygui/product-preview-card-component-main)
+- Live Site URL: [Product preview card component solutio](https://bitsbygui.github.io/product-preview-card-component-main/)
 
 ## Meu Processo
 
