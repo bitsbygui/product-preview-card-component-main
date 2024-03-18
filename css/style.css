@@ -126,7 +126,7 @@ body {
 .cart-button:hover {
     background-color: hsl(158, 37%, 24%);
 }
-.cart-button h5 {
+.cart-button h3 {
     color: var(--white);
     font-size: 14px;
 }
